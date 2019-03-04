@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="تنظیمات پایه">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="STATE"
+            android:summary="@string/setting_Toogle_switch_to_turn_on_recording"
+            android:title="@string/setting_Turn_on_Recording_title" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="تنظیمات امنیتی">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="LOCK"
+            android:summary="@string/setting_Toogle_switch_to_enable_app_lock"
+            android:title="@string/setting_App_lock" />
+        <Preference
+            android:key="changepassword"
+            android:title="تغییر رمز عبور "
+            android:summary="برای تغییر رمز عبور ورود به برنامه کلیک نمایید " />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="تنظیمات پیشرفته">
+
+        <ListPreference
+            android:defaultValue="2"
+            android:entries="@array/pref_example_list_titles"
+            android:entryValues="@array/pref_example_list_values"
+            android:key="RECORDER"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:title="تغییر حالت ضبط صدا" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

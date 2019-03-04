@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\B4A-Quicklearn\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c4918c3176c9f11a29d346af161781e5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\a6ae35063f76ad1637e3f29351268eb6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\54ac8c988bcf97bdb7be904186834417\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\9f0a371a52e7b23bef39e5504c1f714c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\1f19a5bb4e2af735678f2d04ca909a19\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\MaterialPatternllockView-7a45dcaa79.aar\f182194f871f35d5ff1f868f615f311d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="10605135573ea453f480e593872f4535bbf9ea33">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\pinentryedittext-1.3.1.aar\37cf1f32390e3587f81bb715e1d9d1a4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84cb52f02164fd4aa1fd8e204c2b5b6ecc5aceb8">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bb87b2f6ae05bd1c1f4c21999b2dfddf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\144d333a5762b0878224c53e8ebcd3e4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8af49d173b271e90167182b558fc50ec\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\pinentryedittext-1.3.1.aar\d5336828cbcece5802877c31cedfe6bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84cb52f02164fd4aa1fd8e204c2b5b6ecc5aceb8">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\recyclerview-flexibledivider-1.4.0.aar\f339631096550da77c5b311afab2cf07\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="de2a8ef4f859178c128c931b0f5ce0fe31919670">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f08ad698b96912a92c85fc6574e1a660\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\66c80ec24f6c73f81af091f7707706e9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\a1b1583660494e8a95fea4b6b9f5bcfe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\8d8d960925e0609e930311fe5cb8c2d9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\c786b29ca4cf7010bce22953edae542b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1dd0054f0d7b49fe5e8b6bb101944669\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\1c33238a8833d146eecf0a35651c3111\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c96fae4aa1456deab0393b79a4b49b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\5634ba1b93442807ee3ebd7941ccc55f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ee9902bc9bf8396fd8909f403d409f2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\f4e4599898590b0a1d2760d31c6f6e77\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\e45d52d5ba2d1bd5af44458626f90736\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\af54d4d98804af0cfed5c192fee8aeda\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\259ea1b306267661bbac2c8bf47444fd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\android-job-1.2.4.aar\8a96b0504be7b1e2e4aa3105fcd477d7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7fa3e8386c65af8a5789a13bb6c0a35b44a5460">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\4ccce4e37b92ae2759357b822e320673\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\8e13ca42337b3b59dd7750ce95ba014f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f68451cae2bbb4b2173aed171ee50afa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\00f5338dd7974335d0b17d3af305612d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\024178675ccb8daf5012e82529bdc532\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\fee313c4f416e3e34a9de193693da281\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\9a40b1480ea05805a07250a6d056b30a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\c1f32395dabde87637f550e95962b4f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cfa8e3d796915d64cd5b96cec2531444\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.4.aar\e2a7f0a911190fe233c08cf98f406ef9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d3d76f6583dc976a86f7079dceeb6193cdfdcc">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\aba947d4297396f8c94191ebb9187b5c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\15edce9767881a5f1c01469eda1ae7a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e622ff595c6c7065e924e5b07d9399d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c25e9b130e16521b40aa350b7516b95\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\94943ef6ed911fad7a1479a5c959ab06\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1980865eee3d65ea3c4c6edb667cf4d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\onedrive-picker-android-v2.0.aar\2abbc4dbc6a161579e708e70ac47398a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="112f5dcacba8bbbbc870c87b2c7a242917a13849">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\068759e69556505d2f708c44d57b2f42\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\02f8bfdacb68866dd16d44b240c6f5c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d7a0e90db5958a029b80578bbdb2c9f0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\293ac0a7769fbff76df383b59522230e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b1189f92a336d8deb9d27bc4bba9aa8a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\2a9a185135af0b6f5b151ddd8c487951\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\android-job-1.2.4.aar\851a1bd8f97fe2069757ecf10ae6152f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7fa3e8386c65af8a5789a13bb6c0a35b44a5460">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\157a2ac50905b1f4cb163fe1241970b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\recyclerview-flexibledivider-1.4.0.aar\f020a714d440c6d067aef22c05594519\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="de2a8ef4f859178c128c931b0f5ce0fe31919670">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.4.aar\32073b18a2852995016388b56c820ff8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d3d76f6583dc976a86f7079dceeb6193cdfdcc">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\onedrive-picker-android-v2.0.aar\d57254311045eb6e8b6f43b1d0e6fe80\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="112f5dcacba8bbbbc870c87b2c7a242917a13849">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\97803271546680c67daa1a8a4afebb74\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\14aed02281b8e5e1c4f60108d2472456\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b65babd4623a08d87755880edcfafa0e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\pushe-base-1.4.0.aar\44490a2763d1c6ba4cfeb40ce94ffff9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df58adfc09d0bab19c3ae8ca97a10ae30fec39ea">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d781221632888a90d5fe15981c9857b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\141752a0a12a78c6c11a6a979556be55\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\pushe-base-1.4.0.aar\2b73729e107ab8a78c1f9b942de70892\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df58adfc09d0bab19c3ae8ca97a10ae30fec39ea">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\2602e74ddad352a98079b0df92f9458c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\29fab9dd16565c4653052a1dbf4f2fdc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\MaterialPatternllockView-7a45dcaa79.aar\32396a4d162153157b37b26f755e2f60\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="10605135573ea453f480e593872f4535bbf9ea33">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\63acb455902bf1e52cd553f216ff9128\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\372692b221aaac56ff526334c0fa45bd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\1a5ba841faf6c81acb1ba2fdc064b44f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\85c9c450b6b09067a3be843227b33463\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\5dfcdc1cb5628d6a59b89f41ac6fea9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\c120ff4ce7e0d00c8e0b356fdb3c4b46\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75d3db6418f47e89f2c6ff9fc8aa92ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.gu\option\1.3\fa1ce7cb951145e96e3db1b585ded5d0292a330a\option-1.3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa1ce7cb951145e96e3db1b585ded5d0292a330a">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\69827065c432996ec8a43cf1514b7bab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\ef63dddb92b25ac0f40c814b8a85d03b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="C:\Users\saeed\Desktop\Call Recorder\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+
+</items>

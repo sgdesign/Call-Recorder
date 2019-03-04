@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+        <TextView
+            android:lineSpacingExtra="7dp"
+            android:layout_margin="16dp"
+            android:id="@+id/textview_login_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/old_version"
+            android:textColor="#000000" />
+
+        <Button
+            android:background="@drawable/activity_corner_pushe_dialog_button"
+            android:text="متوجه شدم"
+            android:id="@+id/btn_old_version_"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+</LinearLayout>

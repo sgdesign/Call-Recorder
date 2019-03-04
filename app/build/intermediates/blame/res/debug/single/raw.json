@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\debug\\raw\\log_handlers.json",
+        "source": "C:\\Users\\saeed\\.gradle\\caches\\transforms-1\\files-1.1\\pushe-base-1.4.0.aar\\2b73729e107ab8a78c1f9b942de70892\\res\\raw\\log_handlers.json"
+    }
+]

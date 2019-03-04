@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/nav_Select_Option">
+        <menu>
+
+            <item
+                android:id="@+id/nav_fav"
+                android:icon="@drawable/favorite"
+                android:title="@string/nav_Favourite" />
+
+            <item android:id="@+id/nav_recording_issue"
+                android:icon="@drawable/ic_error_black_24dp"
+                android:title="@string/nav_Recording_Issue"/>
+
+            <item
+                android:id="@+id/nav_update_contact"
+                android:icon="@drawable/ic_sync_black_24dp"
+                android:title="@string/nav_Update_Database" />
+
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_Setting" />
+
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_001_rating"
+                android:title="@string/nav_Rate" />
+
+            <item
+                android:id="@+id/nav_apps"
+                android:icon="@drawable/ic_apps_black_24dp"
+                android:title="@string/nav_apps" />
+
+            <item
+                android:id="@+id/nav_support"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="@string/nav_support" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_002_share"
+                android:title="@string/nav_Share" />
+
+        </menu>
+    </item>
+</menu>

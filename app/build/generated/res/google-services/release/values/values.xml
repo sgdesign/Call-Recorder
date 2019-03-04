@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">124539022015-mcs58sj2ju0rj110jp1f4vsvobht24ki.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://call-record-ef876.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">124539022015</string>
+    <string name="google_api_key" translatable="false">AIzaSyBf2-9dIkN6H8BgEQzC61efuUtuROB1wpM</string>
+    <string name="google_app_id" translatable="false">1:124539022015:android:b5bc9902e3a82d4c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBf2-9dIkN6H8BgEQzC61efuUtuROB1wpM</string>
+    <string name="google_storage_bucket" translatable="false">call-record-ef876.appspot.com</string>
+</resources>

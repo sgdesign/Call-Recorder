@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">ضبط مکالمه حرفه ای </string>
+
+    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-170495654654696905394/2307004304</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-170495669694646405394/3648006136</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a nulla non purus pharetra rhoncus.
+        Phasellus fringilla consectetur pharetra. Nullam lacus velit,
+        imperdiet vel odio sed, pretium porttitor nibh. Nam vel eleifend purus, eu luctus ligula.
+        Mauris eu diam diam. Sed nulla ligula, porttitor ac velit in, interdum lobortis neque.
+        Aliquam hendrerit justo massa, sit amet pellentesque velit volutpat a.
+        Maecenas at dapibus massa. Nam in efficitur elit,
+        sed interdum enim. Nullam lorem quam, mollis quis velit ac, lacinia pulvinar felis.
+    </string>
+    <string name="search">جستجو</string>
+    <string name="title_activity_settings">تنظیمات</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">نمایش نام</string>
+    <string name="pref_default_display_name">توسعه هانیوان</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>میکروفن اسپیکر</item>
+        <item>میکروفن</item>
+        <item>  ضبط دو طرفه 1</item>
+        <item> ضبط دو طرفه 2</item>
+        <item> صدای مکالمه</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="search_hint">وارد کردن نام یا شماره</string>
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">فرکانس هماهنگ سازی</string>
+
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">تنظیمات هماهنگ سازی</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">اعلانها</string>
+
+    <string name="pref_title_new_message_notifications">اعلان جدید</string>
+
+    <string name="pref_title_ringtone">صدا دار</string>
+    <string name="pref_ringtone_silent">سایلنت</string>
+
+    <string name="pref_title_vibrate">ویبره</string>
+    <string name="title_activity_navigation">navigation</string>
+
+    <string name="navigation_drawer_open">Open Menu drawer</string>
+    <string name="navigation_drawer_close">Close Menu drawer</string>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="recoring_issue">
+
+اگر از برنامه ضبط صدای دیگری استفاده میکنید آنرا حذف نمایید . سپس می توانید منبع ضبط صدا را از بخش تنظیمات این برنامه تغییر دهید . اگر گزینه پیشفرض کار نمیکند ، گزینه اسپیکر را انتخاب نمایید که صدای تماس شما را ضبط نماید .
+    </string>
+
+    <string name="issue_2">
+
+        برخی از تلفنها ضبط صدا را بدون توجه به تنظیماتی که شما در برنامه اعمال کرده اید پشتیبانی نمیکنند . اما شما هنوز می توانید گزینه اسپیکر را انتخاب نمایید تا صدای شما ضبط شود .
+
+    </string>
+
+    <!-- App Locker Text Started -->
+    <string name="enter_pattern">الگو را رسم نمایید</string>
+    <string name="wrong_pattern">الگو اشتباه است</string>
+    <string name="wrong_pin">کلمه عبور اشتباه است</string>
+    <string name="entered_successfully">با موفقیت وارد شدید</string>
+    <string name="enter_failed">کلمه عبور اشتباه است</string>
+    <string name="please_give_usage_Stats">برای قفل برنامه نیاز به فعال سازی آمار داده ها می باشد</string>
+    <string name="date">تاریخ</string>
+    <string name="entered_app">App:</string>
+    <string name="pin_setted">رمز عبور با موفقیت ثبت شد</string>
+    <string name="uninstall_protect_is_active">Uninstall protect is active</string>
+    <string name="uninstall_protect_is_not_active">Uninstall protect is not active\n Tap for active it</string>
+    <string name="select_lock_type">نوع قفل را انتخاب نمایید</string>
+    <string name="help_time_pin">Time based PIN code. For example time is 12:45 (24 hours) , PIN is 5421</string>
+    <string name="not_matched">Passwords not matched</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_locked_apps">Reset Locked Apps</string>
+    <string name="req">Please give device admin permission for prevent uninstall and keep privacy</string>
+    <string name="pattern">الگو</string>
+    <string name="pin">کلمه عبور</string>
+    <string name="next">بعدی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="about">About</string>
+    <string name="slogan">Ever for better security</string>
+    <string name="logs">Logs</string>
+    <string name="security">امنیت</string>
+    <string name="App_Lock">قفل برنامه</string>
+
+    <!-- App Locker Text Ended -->
+
+    <!-- Splash Windows Text started-->
+    <string name="all_rights_reserved">تمام حقوق مادی و معنوی این اثر متعلق به توسعه دهنده می باشد</string>
+
+    <!-- Splash Windows Text ended-->
+
+    <string name="recording_issue">مشکلات ضبط مکالمه</string>
+
+    <string name="nav_Favourite">لیست مورد علاقه</string>
+    <string name="nav_Recording_Issue">رفع مشکل ضبط صدا</string>
+    <string name="nav_Update_Database">نمایش نام مخاطبین</string>
+    <string name="nav_Setting">تنظیمات</string>
+    <string name="nav_Rate">امتیاز به برنامه</string>
+    <string name="nav_apps">سایر برنامه ها</string>
+    <string name="nav_support">تماس با ما</string>
+    <string name="nav_Share">معرفی برنامه به دوستان</string>
+    <string name="nav_Select_Option">منوی اصلی برنامه</string>
+
+    <string name="tab_Incomming">تماسهای ورودی</string>
+    <string name="tab_Outgoing">تماسهای خروجی</string>
+
+    <string name="setting_Turn_on_Recording_title">فعال یا غیر فعال سازی </string>
+    <string name="setting_Toogle_switch_to_turn_on_recording">می توانید ضبط مکالمه رو فعال یا غیر فعال نمایید</string>
+    <string name="setting_App_lock">قفل برنامه</string>
+    <string name="setting_Toogle_switch_to_enable_app_lock">فعال سازی رمز عبور برای ورود به برنامه</string>
+
+    <string name="today">امروز</string>
+    <string name="yesterday">دیروز</string>
+    <string name="unsaved">بدون نام</string>
+
+    <string name="txt1">آیا ضبط مکالمه در گوشی شما با مشکل همراه است</string>
+    <string name="txt2">اگر همزمان از برنامه ضبط صدای دیگری استفاده میکنید آنرا حذف نمایید </string>
+    <string name="txt3"></string>
+
+    <string name="Play_recording">پخش صدا</string>
+    <string name="Add_to_favourite">افزودن به علاقه مندی ها</string>
+    <string name="Delete_recording">حذف </string>
+    <string name="Turn_off_recording">غیر فعال سازی ضبط صدا</string>
+    <string name="Turn_on_recording">فعال سازی ضبط صدا</string>
+    <string name="Remove_from_favourtie">حذف از لیست مورد علاقه</string>
+    <string name="File_deleted_Successfully">حذف شد</string>
+    <string name="Deletion_failed">حذف نشد . بعدا مجددا اقدام نمایید</string>
+    <string name="added_to_favourite">به مورد علاقه اضافه شد</string>
+    <string name="removed_from_favourite">از لیست مورد علاقه حذف شد</string>
+    <string name="turned_off">غیر فعال شد</string>
+    <string name="turned_on">فعال شد</string>
+    <string name="We_are_recording_your_call">در حال ضبط تماس</string>
+    <string name="We_have_recorded_your_call">مکالمه شما ضبط شد</string>
+    <string name="Share_recording">به اشتراک گذاری</string>
+
+    <string name="Having_issue_with_call_recording">آیا ضبط مکالمه در گوشی شما با مشکل همراه است ؟</string>
+    <string name="old_version">
+        به دلیل روی دادن یک اشتباه سهوی در انتشار نسخه قبلی برنامه  در کافه بازار ، به ناچار نسخه قبلی را از دسترس خارج و برنامه را با پکیج نیم جدید منتشر نموده ایم . این برنامه همان برنامه قبلی است و با همان امکانات . لطفا نسخه قبلی برنامه را حذف نمایید و از این نسخه استفاده نمایید .
+        "\n"
+        با سپاس
+
+    </string>
+
+</resources>

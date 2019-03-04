@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="hanivan.mokalemesgha.Pushe.DialogPusheActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="70"
+            android:background="@android:color/transparent"
+            tools:ignore="Suspicious0dp">
+
+            <RelativeLayout
+                android:id="@+id/ll1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:background="@android:color/transparent">
+
+                <Button
+                    android:id="@+id/btn_pushe_close"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:drawableTop="@drawable/close_pushe" />
+
+                <RelativeLayout
+                    android:layout_marginTop="40dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/activity_corner_pushe_dialog">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/activity_corner_pushe_dialog"
+                        android:orientation="vertical"
+                        android:weightSum="100">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dip"
+                            android:layout_weight="20"
+                            android:padding="8dp"
+                            android:background="@drawable/activity_corner_pushe_dialog_top"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:weightSum="100">
+
+                            <LinearLayout
+                                android:layout_width="0dip"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="25"
+                                android:background="@android:color/white"
+                                android:gravity="center">
+
+                                <ImageView
+                                    android:id="@+id/im_pushe_logo"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@android:color/white" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dip"
+                                android:layout_height="match_parent"
+                                android:layout_weight="75"
+                                android:background="@android:color/white"
+                                android:gravity="center">
+
+                                <TextView
+                                    android:layout_gravity="center_vertical|right"
+                                    android:textSize="18dp"
+                                    android:id="@+id/txt_pushe_title"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@android:color/white"
+                                    android:text="نرم افزار استخاره با قرآن کریم" />
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="1dp"
+                            android:background="#bfc4c9" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dip"
+                            android:layout_weight="60"
+                            android:background="@android:color/white"
+                            android:orientation="vertical"
+                            android:weightSum="100">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dip"
+                                android:layout_gravity="center"
+                                android:layout_weight="26"
+                                android:background="@android:color/white"
+                                android:gravity="center"
+                                android:paddingLeft="24dp"
+                                android:paddingRight="24dp">
+
+                                <TextView
+                                    android:id="@+id/txt_pushe_description"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="18dp"
+                                    android:layout_marginRight="18dp"
+                                    android:background="@android:color/white"
+                                    android:gravity="center"
+                                    android:lineSpacingExtra="6dp"
+                                    android:text="قبل از انجام کارت با خدا مشورت کن پیشمان نشود آنکه با خدا مشورت کند"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dip"
+                                android:layout_weight="74">
+
+                                <ImageView
+                                    android:id="@+id/im_pushe_banner"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:scaleType="fitXY" />
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="1dp"
+                            android:background="#bfc4c9" />
+
+                        <LinearLayout
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dip"
+                            android:layout_weight="20"
+                            android:background="@drawable/activity_corner_pushe_dialog_bottom">
+
+                            <Button
+                                android:id="@+id/btn_pushe_download"
+                                android:textColor="@android:color/white"
+                                android:background="@drawable/activity_corner_pushe_dialog_button"
+                                android:layout_marginLeft="36dp"
+                                android:layout_marginRight="36dp"
+                                android:text="دانلود رایگان"
+                                android:textSize="15dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

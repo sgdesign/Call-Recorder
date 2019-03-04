@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Mar 04 12:57:37 IRST 2019
+1.base=C\:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\assets\\release
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\transforms\\dex\\release\\0
+1.path=fonts/iransans.ttf

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124539022015",
+    "firebase_url": "https://call-record-ef876.firebaseio.com",
+    "project_id": "call-record-ef876",
+    "storage_bucket": "call-record-ef876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124539022015:android:b5bc9902e3a82d4c",
+        "android_client_info": {
+          "package_name": "com.danielkim.saeedsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124539022015-mcs58sj2ju0rj110jp1f4vsvobht24ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2-9dIkN6H8BgEQzC61efuUtuROB1wpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

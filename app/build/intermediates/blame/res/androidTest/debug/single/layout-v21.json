@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\saeed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b1189f92a336d8deb9d27bc4bba9aa8a\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\saeed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b1189f92a336d8deb9d27bc4bba9aa8a\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\saeed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b1189f92a336d8deb9d27bc4bba9aa8a\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\saeed\\Desktop\\Call Recorder\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\saeed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b1189f92a336d8deb9d27bc4bba9aa8a\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:android-device-names:1.1.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-device-names-1.1.4.aar/e2a7f0a911190fe233c08cf98f406ef9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-device-names-1.1.4.aar/e2a7f0a911190fe233c08cf98f406ef9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/android-device-names/1.1.4/8e34d0c749db9b8f3766c7e33729bd5986294d1f/android-device-names-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
